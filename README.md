@@ -1,11 +1,11 @@
 # Real-Time-Face-Recognition
 <br>
-##Description
+## Description
 <br>
 A utility application for Face Detection and recognition made using KNN algorithm, Open CV, HaarCascade classifier Python.
 <br>
 <br>
-##Running the application
+## Running the application
 <br>
 1.Install Open CV
 <br>
